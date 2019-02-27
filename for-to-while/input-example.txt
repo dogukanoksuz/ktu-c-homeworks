@@ -1,0 +1,56 @@
+// Deneme Açıklama Satırı
+
+for (int index = 0; index < 99; index++) {
+	int denemeSayi = 123456789;
+	char *string = "test yazılar falan filan";
+
+	while (denemekosul) {
+		int denemeSayi = 123456789;
+		char *string = "test yazılar falan filan";		
+	}
+
+	for (int nested = 0; nested > 250; nested + 2) {
+		int denemeSayi = 123456789;
+		char *string = "test yazılar falan filan";
+	}
+
+	while (denemekosul) {
+		int denemeSayi = 123456789;
+		char *string = "test yazılar falan filan";		
+	}
+
+	for (int dogukan = 1; dogukan > 550; dogukan++) {
+		int denemeSayi = 123456789;
+		char *string = "test yazılar falan filan";
+	}
+	
+	while (denemekosul) {
+		int denemeSayi = 123456789;
+		char *string = "test yazılar falan filan";		
+	}
+
+	for (int dogukan = 1; dogukan > 550; dogukan++) {
+		int denemeSayi = 123456789;
+		char *string = "test yazılar falan filan";
+	}
+}
+
+for (int index2 = 0; index2 < 99; index2++) {
+	int denemeSayi = 123456789;
+	char *string = "test yazılar falan filan";
+
+	for (int nested2 = 0; nested2 > 250; nested2 + 2) {
+		int denemeSayi = 123456789;
+		char *string = "test yazılar falan filan";
+	}
+
+	while (denemekosul) {
+		int denemeSayi = 123456789;
+		char *string = "test yazılar falan filan";		
+	}
+
+	for (int dogukan2 = 1; dogukan2 > 550; dogukan2++) {
+		int denemeSayi = 123456789;
+		char *string = "test yazılar falan filan";
+	}
+}
